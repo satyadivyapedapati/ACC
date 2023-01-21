@@ -6,5 +6,11 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/shiva/eclipse-workspace/Assignment/Resource/jsoup-1.15.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="Resource/jsoup-1.15.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

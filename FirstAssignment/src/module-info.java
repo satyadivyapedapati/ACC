@@ -6,4 +6,5 @@
  *
  */
 module FirstAssignment {
+	requires org.jsoup;
 }
